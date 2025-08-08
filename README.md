@@ -60,7 +60,7 @@ This script ensures secure setup by using SSH keys only, avoiding less secure pa
 
 ## 👨‍💻 Author
 
-Your Name or Handle
+[MonsterZeroX](https://github.com/Monster-ZeroX/)
 
 ## 📢 Contribute / Issues
 
