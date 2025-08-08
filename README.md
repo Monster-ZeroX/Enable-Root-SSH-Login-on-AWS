@@ -19,7 +19,7 @@
    ssh -i /path/to/key.pem ubuntu@your-server-ip
    ```
 
-2. **Run the one-liner script** (replace `<your-github-username>` and `<your-repo>` with your GitHub details):
+2. **Run the one-liner script**:
    ```bash
    bash <(curl -s https://raw.githubusercontent.com/Monster-ZeroX/Enable-Root-SSH-Login-on-AWS/refs/heads/main/enable-root-ssh.sh)
    ```
