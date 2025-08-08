@@ -62,9 +62,3 @@ This script ensures secure setup by using SSH keys only, avoiding less secure pa
 
 [MonsterZeroX](https://github.com/Monster-ZeroX/)
 
-## 📢 Contribute / Issues
-
-- Pull requests are welcome for improvements or additional features!
-- Open an issue if you encounter bugs—this script is designed to be straightforward, but issues can arise.
-
-**Own your infrastructure. Automate boldly.**
