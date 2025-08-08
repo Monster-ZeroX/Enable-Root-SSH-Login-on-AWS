@@ -21,7 +21,7 @@
 
 2. **Run the one-liner script** (replace `<your-github-username>` and `<your-repo>` with your GitHub details):
    ```bash
-   bash <(curl -s https://raw.githubusercontent.com/<your-github-username>/<your-repo>/main/enable-root-ssh.sh)
+   bash <(curl -s https://raw.githubusercontent.com/Monster-ZeroX/Enable-Root-SSH-Login-on-AWS/refs/heads/main/enable-root-ssh.sh)
    ```
 
 3. **Log in as `root` with your SSH key**:
